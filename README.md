@@ -1,6 +1,6 @@
 # Kurt Gödel (1906-1978)
 
-John W. Dawson, Jr. and Cheryl Dawson, <u>*Future tasks for Gödel scholars*</u>. The Bulletin of Symbolic Logic(t.a.).
+John W. Dawson, Jr. and Cheryl Dawson, <u>**Future tasks for Gödel scholars**</u>. The Bulletin of Symbolic Logic(t.a.).
 
 [Solomon Feferman](http://math.stanford.edu/~feferman/) (1928 – 2016):
 
@@ -11,7 +11,7 @@ John W. Dawson, Jr. and Cheryl Dawson, <u>*Future tasks for Gödel scholars*</u>
 <th><a>Kurt Gödel: Essays for his Centennial</a></th>
 </tr>
 <tr>
-<td><a><div align=center><img width="85px" src="./images/centennial.png"/></div></a></td>
+<td><a><div align=center><img width="100px" src="./images/centennial.png"/></div></a></td>
 </tr>
 </table>
 
@@ -44,6 +44,7 @@ Chinese:
 <tr>
 <th><a>哥德尔</a></th>
 <th><a>哥德尔证明</a></th>
+<th><a>不完备性:哥德尔的证明和悖论</a></th>
 <th><a>逻辑人生</a></th>
 <th><a>理性的生命</a></th>
 <th><a>没有时间的世界：爱因斯坦与哥德尔被遗忘的财富</a></th>
@@ -51,6 +52,7 @@ Chinese:
 <tr>
 <td><a><img width="110px" src="./images/哥德尔.jpg"/></a></td>
 <td><a><img width="100px" src="./images/哥德尔证明.jpg"/></a></td>
+<td><a><div align=center><img width="100px" src="./images/不完备性.jpg"/></div></a></td>
 <td><a><img width="100px" src="./images/逻辑人生.jpg"/></a></td>
 <td><a><img width="100px" src="./images/理性的生命.jpg"/></a></td>
 <td><a><div align=center><img width="100px" src="./images/没有时间的世界.jpg"/></div></a></td>
