@@ -1,29 +1,15 @@
 # Kurt Gödel (1906-1978)
 
-<img width="30px" src="./images/JohnWDawson.jpg"/>John W. Dawson, Jr. and Cheryl Dawson, <u>**Future tasks for Gödel scholars**</u>. The Bulletin of Symbolic Logic(t.a.).
+<img width="30px" src="./images/JohnWDawson.jpg"/> John W. Dawson, Jr. and Cheryl Dawson, <u>**Future tasks for Gödel scholars**</u>. The Bulletin of Symbolic Logic(t.a.).
 
 > John W Dawson：[Gödel and the limits of logic](https://plus.maths.org/content/goumldel-and-limits-logic) June 1, 2006.
 
-<img width="50px" src="./images/SFeferman.jpeg"/>[Solomon Feferman](http://math.stanford.edu/~feferman/) (1928 – 2016):
+<img width="50px" src="./images/SFeferman.jpeg"/> [Solomon Feferman](http://math.stanford.edu/~feferman/) (1928 – 2016):
 
 > [The Gödel editorial project: a synopsis](http://math.stanford.edu/~feferman/papers/Goedel-Project-Synopsis.pdf) *Bull. Symbolic Logic 11 (2005) 132-149; reprinted in Kurt Gödel. Essays for his Centennial* (S. Feferman, C. Parsons and S. G. Simpson, eds.), Lecture Notes in Logic 33 (2010), Assoc. for Symbolic Logic, Cambridge University Press, 2010.
 
-<div align=center>
-<table>
-<tr>
-<th><a>Kurt Gödel: Essays for his Centennial</a></th>
-</tr>
-<tr>
-<td><a><div align=center><img width="100px" src="./images/centennial.png"/></div></a></td>
-</tr>
-</table>
-</div>
+### Collected Works：
 
-******
-
-Kurt Gödel Collected Works（Oxford University Press）：
-
-<div align=center>
 <table>
 <tr>
 <th><a>I</a></th>
@@ -40,11 +26,27 @@ Kurt Gödel Collected Works（Oxford University Press）：
 <td><a><img width="150px" src="./images/V.jpg"/></a></th>
 </tr>
 </table>
-</div>
+
+### Hao Wang: 
+
+(王浩, 1921-1995)
+
+<table>
+<tr>
+<th><a>A Logical Journey</a></th>
+<th><a>Reflections on Kurt Gödel</a></th>
+<th><a>From Mathematics to Philosophy</a></th>
+</tr>
+<tr>
+<td><a><img width="110px" src="./images/ALogicalJourney.jpg"></a></td>
+<td><a><div align=center><img width="100px" src="./images/Reflections.jpg"/></div></a></td>
+<td><a><div align=center><img width="100px" src="./images/HaoWang.jpg"/></div></a></td>
+</tr>
+</table>
 
 ******
 
-Chinese:
+### 中外著述:
 
 <table>
 <tr>
@@ -65,47 +67,24 @@ Chinese:
 </tr>
 </table>
 
-> 赵昊彤：[哥德尔不完备定理](http://blog.sciencenet.cn/u/zhaohaotong)
-
-> 刘未鹏：[康托尔、哥德尔、图灵——永恒的金色对角线](http://mindhacks.cn/2006/10/15/cantor-godel-turing-an-eternal-golden-diagonal/)
-
-******
-
-Hao Wang (王浩, 1921-1995)：
-
-<div align=center>
 <table>
 <tr>
-<th><a>A Logical Journey</a></th>
-<th><a>Reflections on Kurt Gödel</a></th>
-<th><a>From Mathematics to Philosophy</a></th>
-</tr>
-<tr>
-<td><a><img width="110px" src="./images/ALogicalJourney.jpg"></a></td>
-<td><a><div align=center><img width="100px" src="./images/Reflections.jpg"/></div></a></td>
-<td><a><div align=center><img width="100px" src="./images/HaoWang.jpg"/></div></a></td>
-</tr>
-</table>
-</div>
-
-******
-
-<table>
-<tr>
+<th><a>Kurt Gödel: Essays for his Centennial</a></th>
 <th><a>After Gödel</a></th>
 <th><a>Essays on Gödel's Reception of Leibniz, Husserl, and Brouwer</a></th>
 <th><a>Kurt Gödel and the Foundations of Mathematics: Horizons of Truth</a></th>
 <th><a>When Einstein Walked with Gödel: Excursions to the Edge of Thought</a></th>
 </tr>
 <tr>
-<td><a><img width="240px" src="./images/AfterGodel.jpg"/></a></td>
+<td><a><div align=center><img width="100px" src="./images/centennial.png"></div></a></td>
+<td><a><img width="220px" src="./images/AfterGodel.jpg"/></a></td>
 <td><a><div align=center><img width="100px" src="./images/EssaysOnGodel.jpg"/></div></a></td>
 <td><a><div align=center><img width="100px" src="./images/HorizonsOfTruth.jpg"/></div></a></td>
 <td><a><div align=center><img width="100px" src="./images/EinsteinGodel.jpg"/></div></a></td>
 </tr>
 </table>
 
-******
+### 博文：
 
 [Gödel's Lost Letter and P=NP | a personal view of the theory of computation](https://rjlipton.wordpress.com)
 > [Is P=NP an Ill Posed Problem?](https://rjlipton.wordpress.com/2009/07/13/is-pnp-ill-posed-problem/)
@@ -114,3 +93,7 @@ Hao Wang (王浩, 1921-1995)：
 [How Gödel’s Proof Works](https://www.quantamagazine.org/how-godels-incompleteness-theorems-work-20200714/)
 
 [The technical part of Godel’s proof](https://sbseminar.wordpress.com/2009/12/07/the-technical-part-of-godels-proof/)
+
+赵昊彤：[哥德尔不完备定理](http://blog.sciencenet.cn/u/zhaohaotong)
+
+刘未鹏：[康托尔、哥德尔、图灵——永恒的金色对角线](http://mindhacks.cn/2006/10/15/cantor-godel-turing-an-eternal-golden-diagonal/)
