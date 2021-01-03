@@ -69,6 +69,7 @@
 
 <table>
 <tr>
+<th><a>Godel's Incompleteness Theorems</a></th>
 <th><a>Kurt Gödel: Essays for his Centennial</a></th>
 <th><a>After Gödel</a></th>
 <th><a>Essays on Gödel's Reception of Leibniz, Husserl, and Brouwer</a></th>
@@ -76,6 +77,7 @@
 <th><a>When Einstein Walked with Gödel: Excursions to the Edge of Thought</a></th>
 </tr>
 <tr>
+<td><a><div align=center><img width="100px" src="./images/Smullyan.png"/></div></a></td>
 <td><a><div align=center><img width="100px" src="./images/centennial.png"></div></a></td>
 <td><a><img width="220px" src="./images/AfterGodel.jpg"/></a></td>
 <td><a><div align=center><img width="100px" src="./images/EssaysOnGodel.jpg"/></div></a></td>
