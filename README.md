@@ -99,3 +99,19 @@
 赵昊彤：[哥德尔不完备定理](http://blog.sciencenet.cn/u/zhaohaotong)
 
 刘未鹏：[康托尔、哥德尔、图灵——永恒的金色对角线](http://mindhacks.cn/2006/10/15/cantor-godel-turing-an-eternal-golden-diagonal/)
+
+### Video：
+
+刘晓力
+>[哥德尔定理与认知科学局限](https://www.bilibili.com/video/BV1PN41197Cn)
+
+>[哥德尔哲学: 世界的意义就在于事与愿违](https://www.bilibili.com/video/BV1K54y117Tk)
+
+>[人类意识与机器意识的演化](https://www.bilibili.com/video/BV1WC4y1b7X2)
+
+郝兆宽
+>[哥德尔的生平](http://www.dushuren123.com/bookmov/video/share.jsp?id=1947741102)
+
+>[不完全性定理](http://www.dushuren123.com/bookmov/video/share.jsp?id=1498409123)
+
+>[哥德尔定理的意义](http://www.dushuren123.com/bookmov/video/share.jsp?id=81929271)
