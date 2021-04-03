@@ -50,6 +50,7 @@
 
 <table>
 <tr>
+<th><a>哥德尔不完全性定理</a></th>
 <th><a>哥德尔</a></th>
 <th><a>哥德尔证明</a></th>
 <th><a>不完备性:哥德尔的证明和悖论</a></th>
@@ -58,6 +59,7 @@
 <th><a>没有时间的世界：爱因斯坦与哥德尔被遗忘的财富</a></th>
 </tr>
 <tr>
+<td><a><img width="100px" src="https://img2.doubanio.com/view/subject/s/public/s30002733.jpg/"></a></td>
 <td><a><img width="110px" src="./images/哥德尔.jpg"/></a></td>
 <td><a><img width="100px" src="./images/哥德尔证明.jpg"/></a></td>
 <td><a><div align=center><img width="90px" src="./images/不完备性.jpg"/></div></a></td>
@@ -85,6 +87,10 @@
 <td><a><div align=center><img width="100px" src="./images/EinsteinGodel.jpg"/></div></a></td>
 </tr>
 </table>
+
+### 课程：
+
+[Godel's Incompleteness Theorem (2019-2020)](https://courses.maths.ox.ac.uk/node/42398)
 
 ### 博文：
 
