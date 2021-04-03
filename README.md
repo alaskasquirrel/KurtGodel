@@ -94,6 +94,8 @@
 
 ### 博文：
 
+[Kurt Gödel (1906-1978)](https://blog.computationalcomplexity.org/2006/04/kurt-gdel-1906-1978.html) 百年诞辰
+
 [Gödel's Lost Letter and P=NP | a personal view of the theory of computation](https://rjlipton.wordpress.com)
 > [Is P=NP an Ill Posed Problem?](https://rjlipton.wordpress.com/2009/07/13/is-pnp-ill-posed-problem/)
 
