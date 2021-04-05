@@ -50,6 +50,7 @@
 
 <table>
 <tr>
+<th><a>逻辑之旅——从哥德尔到哲学</a></th>
 <th><a>哥德尔不完全性定理</a></th>
 <th><a>哥德尔</a></th>
 <th><a>哥德尔证明</a></th>
@@ -59,6 +60,7 @@
 <th><a>没有时间的世界：爱因斯坦与哥德尔被遗忘的财富</a></th>
 </tr>
 <tr>
+<td><a><img width="100px" src="https://img9.doubanio.com/view/subject/s/public/s3627016.jpg"></a></td>
 <td><a><img width="100px" src="https://img2.doubanio.com/view/subject/s/public/s30002733.jpg/"></a></td>
 <td><a><img width="110px" src="./images/哥德尔.jpg"/></a></td>
 <td><a><img width="100px" src="./images/哥德尔证明.jpg"/></a></td>
