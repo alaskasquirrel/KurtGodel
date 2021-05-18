@@ -79,6 +79,7 @@
 <th><a>Essays on Gödel's Reception of Leibniz, Husserl, and Brouwer</a></th>
 <th><a>Kurt Gödel and the Foundations of Mathematics: Horizons of Truth</a></th>
 <th><a>When Einstein Walked with Gödel: Excursions to the Edge of Thought</a></th>
+<th><a>Gödel's Theorem: An Incomplete Guide to Its Use and Abuse</a></th>
 </tr>
 <tr>
 <td><a><div align=center><img width="100px" src="./images/Smullyan.png"/></div></a></td>
@@ -87,6 +88,7 @@
 <td><a><div align=center><img width="100px" src="./images/EssaysOnGodel.jpg"/></div></a></td>
 <td><a><div align=center><img width="100px" src="./images/HorizonsOfTruth.jpg"/></div></a></td>
 <td><a><div align=center><img width="100px" src="./images/EinsteinGodel.jpg"/></div></a></td>
+<td><a><div align=center><img width="100px" src="./images/GodelUseAbuse.jpg"></div></a></td>
 </tr>
 </table>
 
