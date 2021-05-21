@@ -121,6 +121,8 @@
 
 >[人类意识与机器意识的演化](https://www.bilibili.com/video/BV1WC4y1b7X2)
 
+><哥德尔的遗产及其百年启示> 《科学文化评论》第3卷 第2期(2006),110-115 
+
 郝兆宽
 >[哥德尔的生平](http://www.dushuren123.com/bookmov/video/share.jsp?id=1947741102)
 
