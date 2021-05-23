@@ -52,19 +52,22 @@
 <tr>
 <th><a>逻辑之旅——从哥德尔到哲学</a></th>
 <th><a>哥德尔不完全性定理</a></th>
-<th><a>哥德尔</a></th>
 <th><a>哥德尔证明</a></th>
 <th><a>不完备性:哥德尔的证明和悖论</a></th>
+</tr>
+<tr>
+<td><a><img width="100px" src="https://img9.doubanio.com/view/subject/s/public/s3627016.jpg"></a></td>
+<td><a><img width="100px" src="https://img2.doubanio.com/view/subject/s/public/s30002733.jpg/"></a></td>
+<td><a><img width="100px" src="./images/哥德尔证明.jpg"/></a></td>
+<td><a><div align=center><img width="90px" src="./images/不完备性.jpg"/></div></a></td>
+</tr>
+<th><a>哥德尔</a></th>
 <th><a>逻辑人生</a></th>
 <th><a>理性的生命</a></th>
 <th><a>没有时间的世界：爱因斯坦与哥德尔被遗忘的财富</a></th>
 </tr>
 <tr>
-<td><a><img width="100px" src="https://img9.doubanio.com/view/subject/s/public/s3627016.jpg"></a></td>
-<td><a><img width="100px" src="https://img2.doubanio.com/view/subject/s/public/s30002733.jpg/"></a></td>
 <td><a><img width="110px" src="./images/哥德尔.jpg"/></a></td>
-<td><a><img width="100px" src="./images/哥德尔证明.jpg"/></a></td>
-<td><a><div align=center><img width="90px" src="./images/不完备性.jpg"/></div></a></td>
 <td><a><img width="100px" src="./images/逻辑人生.jpg"/></a></td>
 <td><a><img width="100px" src="./images/理性的生命.jpg"/></a></td>
 <td><a><div align=center><img width="90px" src="./images/没有时间的世界.jpg"/></div></a></td>
@@ -77,15 +80,19 @@
 <th><a>Kurt Gödel: Essays for his Centennial</a></th>
 <th><a>After Gödel</a></th>
 <th><a>Essays on Gödel's Reception of Leibniz, Husserl, and Brouwer</a></th>
+</tr>
+<tr>
+<td><a><div align=center><img width="100px" src="./images/Smullyan.png"/></div></a></td>
+<td><a><div align=center><img width="100px" src="./images/centennial.png"></div></a></td>
+<td><a><img width="105px" src="./images/AfterGodel.jpg"/></a></td>
+<td><a><div align=center><img width="100px" src="./images/EssaysOnGodel.jpg"/></div></a></td>
+</tr>
+<tr>
 <th><a>Kurt Gödel and the Foundations of Mathematics: Horizons of Truth</a></th>
 <th><a>When Einstein Walked with Gödel: Excursions to the Edge of Thought</a></th>
 <th><a>Gödel's Theorem: An Incomplete Guide to Its Use and Abuse</a></th>
 </tr>
 <tr>
-<td><a><div align=center><img width="100px" src="./images/Smullyan.png"/></div></a></td>
-<td><a><div align=center><img width="100px" src="./images/centennial.png"></div></a></td>
-<td><a><img width="220px" src="./images/AfterGodel.jpg"/></a></td>
-<td><a><div align=center><img width="100px" src="./images/EssaysOnGodel.jpg"/></div></a></td>
 <td><a><div align=center><img width="100px" src="./images/HorizonsOfTruth.jpg"/></div></a></td>
 <td><a><div align=center><img width="100px" src="./images/EinsteinGodel.jpg"/></div></a></td>
 <td><a><div align=center><img width="100px" src="./images/GodelUseAbuse.jpg"></div></a></td>
