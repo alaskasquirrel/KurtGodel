@@ -8,7 +8,7 @@
 
 > [The Gödel editorial project: a synopsis](http://math.stanford.edu/~feferman/papers/Goedel-Project-Synopsis.pdf) *Bull. Symbolic Logic 11 (2005) 132-149; reprinted in Kurt Gödel. Essays for his Centennial* (S. Feferman, C. Parsons and S. G. Simpson, eds.), Lecture Notes in Logic 33 (2010), Assoc. for Symbolic Logic, Cambridge University Press, 2010.
 
-### Collected Works：
+### Collected Works:
 
 <table>
 <tr>
@@ -44,8 +44,6 @@
 </tr>
 </table>
 
-******
-
 ### 中外著述:
 
 <table>
@@ -54,23 +52,25 @@
 <th><a>哥德尔不完全性定理</a></th>
 <th><a>哥德尔证明</a></th>
 <th><a>不完备性:哥德尔的证明和悖论</a></th>
-</tr>
-<tr>
-<td><a><img width="100px" src="https://img9.doubanio.com/view/subject/s/public/s3627016.jpg"></a></td>
-<td><a><img width="100px" src="https://img2.doubanio.com/view/subject/s/public/s30002733.jpg/"></a></td>
-<td><a><img width="100px" src="./images/哥德尔证明.jpg"/></a></td>
-<td><a><div align=center><img width="90px" src="./images/不完备性.jpg"/></div></a></td>
-</tr>
 <th><a>哥德尔</a></th>
 <th><a>逻辑人生</a></th>
-<th><a>理性的生命</a></th>
-<th><a>没有时间的世界：爱因斯坦与哥德尔被遗忘的财富</a></th>
 </tr>
 <tr>
-<td><a><img width="110px" src="./images/哥德尔.jpg"/></a></td>
-<td><a><img width="100px" src="./images/逻辑人生.jpg"/></a></td>
-<td><a><img width="100px" src="./images/理性的生命.jpg"/></a></td>
-<td><a><div align=center><img width="90px" src="./images/没有时间的世界.jpg"/></div></a></td>
+<td><a><div align=center><img width="100px" src="https://img9.doubanio.com/view/subject/s/public/s3627016.jpg"></div></a></td>
+<td><a><div align=center><img width="100px" src="https://img2.doubanio.com/view/subject/s/public/s30002733.jpg/"></div></a></td>
+<td><a><div align=center><img width="100px" src="./images/哥德尔证明.jpg"/></div></a></td>
+<td><a><div align=center><img width="100px" src="./images/不完备性.jpg"/></div></a></td>
+<td><a><div align=center><img width="100px" src="./images/哥德尔.jpg"/></div></a></td>
+<td><a><div align=center><img width="100px" src="./images/逻辑人生.jpg"/></div></a></td>
+</tr>
+<th><a>理性的生命</a></th>
+<th><a>没有时间的世界：爱因斯坦与哥德尔被遗忘的财富</a></th>
+<th><a>The Gödelian Puzzle Book Puzzles, Paradoxes and Proofs</a></th>
+</tr>
+<tr>
+<td><a><div align=center><img width="100px" src="./images/理性的生命.jpg"/></div></a></td>
+<td><a><div align=center><img width="100px" src="./images/没有时间的世界.jpg"/></div></a></td>
+<td><a><div align=center><img width="100px" src="https://img1.doubanio.com/view/subject/s/public/s26045549.jpg/"></div></a></td>
 </tr>
 </table>
 
@@ -84,18 +84,20 @@
 <tr>
 <td><a><div align=center><img width="100px" src="./images/Smullyan.png"/></div></a></td>
 <td><a><div align=center><img width="100px" src="./images/centennial.png"></div></a></td>
-<td><a><img width="105px" src="./images/AfterGodel.jpg"/></a></td>
+<td><a><div align=center><img width="105px" src="./images/AfterGodel.jpg"/></div></a></td>
 <td><a><div align=center><img width="100px" src="./images/EssaysOnGodel.jpg"/></div></a></td>
 </tr>
 <tr>
 <th><a>Kurt Gödel and the Foundations of Mathematics: Horizons of Truth</a></th>
 <th><a>When Einstein Walked with Gödel: Excursions to the Edge of Thought</a></th>
 <th><a>Gödel's Theorem: An Incomplete Guide to Its Use and Abuse</a></th>
+<th><a>From Frege to Godel: a source book in mathematical logic,1879-1931</a></th>
 </tr>
 <tr>
 <td><a><div align=center><img width="100px" src="./images/HorizonsOfTruth.jpg"/></div></a></td>
 <td><a><div align=center><img width="100px" src="./images/EinsteinGodel.jpg"/></div></a></td>
 <td><a><div align=center><img width="100px" src="./images/GodelUseAbuse.jpg"></div></a></td>
+<td><a><div align=center><img width="100px" src="https://img2.doubanio.com/view/subject/s/public/s2761582.jpg"></div></a></td>
 </tr>
 </table>
 
@@ -103,7 +105,7 @@
 
 [Godel's Incompleteness Theorem (2019-2020)](https://courses.maths.ox.ac.uk/node/42398)
 
-### 博文：
+### 博文:
 
 [Kurt Gödel (1906-1978)](https://blog.computationalcomplexity.org/2006/04/kurt-gdel-1906-1978.html) 百年诞辰
 
@@ -119,9 +121,10 @@
 
 刘未鹏：[康托尔、哥德尔、图灵——永恒的金色对角线](http://mindhacks.cn/2006/10/15/cantor-godel-turing-an-eternal-golden-diagonal/)
 
-### Video：
+### Video:
 
-刘晓力
+- 刘晓力
+
 >[哥德尔定理与认知科学局限](https://www.bilibili.com/video/BV1PN41197Cn)
 
 >[哥德尔哲学: 世界的意义就在于事与愿违](https://www.bilibili.com/video/BV1K54y117Tk)
@@ -130,7 +133,8 @@
 
 ><哥德尔的遗产及其百年启示> 《科学文化评论》第3卷 第2期(2006),110-115 
 
-郝兆宽
+- 郝兆宽
+
 >[哥德尔的生平](http://www.dushuren123.com/bookmov/video/share.jsp?id=1947741102)
 
 >[不完全性定理](http://www.dushuren123.com/bookmov/video/share.jsp?id=1498409123)
