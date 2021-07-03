@@ -1,5 +1,9 @@
 # Kurt Gödel (1906-1978)
 
+[Type Theory](https://plato.stanford.edu/entries/type-theory/) Stanford Encyclopedia of Philosophy.
+
+
+
 <img width="30px" src="./images/JohnWDawson.jpg"/> John W. Dawson, Jr. and Cheryl Dawson, <u>**Future tasks for Gödel scholars**</u>. The Bulletin of Symbolic Logic(t.a.).
 
 > John W Dawson：[Gödel and the limits of logic](https://plus.maths.org/content/goumldel-and-limits-logic) June 1, 2006.
@@ -107,9 +111,14 @@
 
 ### 博文:
 
+Jurgen Schmidhuber: [1931: Kurt Godel, founder of theoretical computer science, shows limits of math, logic, computing, and artificial intelligence](https://people.idsia.ch/~juergen/goedel-1931-founder-theoretical-computer-science-AI.html)
+
+[Godel's Incompleteness Theorem And Its Implications For Artificial Intelligence](https://www.sabinasz.net/godels-incompleteness-theorem-and-its-implications-for-artificial-intelligence/)
+
 [Kurt Gödel (1906-1978)](https://blog.computationalcomplexity.org/2006/04/kurt-gdel-1906-1978.html) 百年诞辰
 
 [Gödel's Lost Letter and P=NP | a personal view of the theory of computation](https://rjlipton.wordpress.com)
+
 > [Is P=NP an Ill Posed Problem?](https://rjlipton.wordpress.com/2009/07/13/is-pnp-ill-posed-problem/)
 
 
